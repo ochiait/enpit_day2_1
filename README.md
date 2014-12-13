@@ -1,6 +1,6 @@
 
 # タビノタネ
-## ～思いつかないような場所へ行ける、旅行目的地レコメンドサービス～
+### ～思いつかないような場所へ行ける、旅行目的地レコメンドサービス～
 
 **自分が知っている場所しか目的地が思い浮かばない**  
 **旅行に行きたい人**向けの  
@@ -27,6 +27,5 @@
 タビノタネで新しい発見をしてください。
 
 **サービス紹介ムービーは[こちら](http://vimeo.com/114439010)です。**
-  
 --
 This software is released under the MIT License, see [LICENSE.txt](https://github.com/tnumata3632/RakuTabi/blob/master/LICENSE.txt).
